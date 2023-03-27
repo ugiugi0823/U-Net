@@ -1,6 +1,7 @@
 # callmodel.py
 
-
+import torch
+from torch import nn
 
 
 # UNQ_C2 (UNIQUE CELL IDENTIFIER, DO NOT EDIT)
