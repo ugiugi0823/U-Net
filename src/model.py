@@ -1,7 +1,7 @@
 # model.py()
 
 from torch import nn
-from call_model import ContractingBlock, ExpandingBlock, FeatureMapBlock
+from utils.call_model import ContractingBlock, ExpandingBlock, FeatureMapBlock
 
 
 
